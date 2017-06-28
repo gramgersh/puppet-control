@@ -30,7 +30,7 @@ mod 'role',
   :ref     => 'master'
 
 mod 'profile',
-  :git     => 'git@github.com:gramgersh/puppet-profile.git'
+  :git     => 'git@github.com:gramgersh/puppet-profile.git',
   :ref     => 'master'
 
 mod 'nginx',
