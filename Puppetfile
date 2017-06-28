@@ -17,18 +17,18 @@ mod "puppetlabs/java"
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
 
-mod 'ssh':
+mod 'ssh',
   :git     => 'https://github.com/gramgersh/puppet-ssh.git',
   :ref     => 'master'
 
-mod 'ntp':
+mod 'ntp',
   :git     => 'https://github.com/gramgersh/puppet-ntp.git',
   :ref     => 'master'
 
-mod 'role':
+mod 'role',
   :git     => 'https://github.com/gramgersh/puppet-role.git',
   :ref     => 'master'
 
-mod 'profile':
+mod 'profile',
   :git     => 'https://github.com/gramgersh/puppet-profile.git',
   :ref     => 'master'
